@@ -85,6 +85,12 @@
                 <mxCell id="42" value="" style="shape=mxgraph.electrical.electro-mechanical.twoWaySwitch;aspect=fixed;elSwitchState=2;fillColor=#000000;rotation=-180;" vertex="1" parent="1">
                     <mxGeometry x="240" y="137" width="75" height="26" as="geometry"/>
                 </mxCell>
+                <mxCell id="46" value="Input&amp;nbsp; A" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="252" y="110" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="Output" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="500" y="215" width="60" height="30" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
